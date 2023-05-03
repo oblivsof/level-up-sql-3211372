@@ -7,6 +7,6 @@
 -- Hint: SQLite offers the INTEGER and REAL datatypes
 
 CREATE TABLE RSVP (
-CustomerID INTEGER,  
+CustomerID INTEGER, 
 PartySize INTEGER
 );
